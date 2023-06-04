@@ -1,4 +1,4 @@
-Busco aprender e me desenvolver em linguagens de programação como Python e Javascript, frameworks como Angular e React, bem como em metodologias ágeis como Scrum. Estou aberto a novas oportunidades e colaborações em projetos de tecnologia. 
+## Busco aprender e me desenvolver em linguagens de programação como Python e Javascript, frameworks como Angular e React, bem como em metodologias ágeis como Scrum. Estou aberto a novas oportunidades e colaborações em projetos de tecnologia. 
 <br>
 
 
@@ -12,5 +12,5 @@ Busco aprender e me desenvolver em linguagens de programação como Python e Jav
 <hr>
 <div> 
   <a href="https://br.linkedin.com/in/geslanio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.instagram.com/geslanio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
