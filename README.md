@@ -1,4 +1,6 @@
 ## Buscando aprender sobre desenvolvimento web. Estou aberto a novas oportunidades e colaborações em projetos. 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Geslani&label=Profile%20views&color=0e75b6&style=flat" alt="Geslanio" /> </p>
+
 <br>
     <div>
         <a href="">
